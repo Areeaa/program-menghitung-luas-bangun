@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\2203040162(UAS)\2203040162(UAS)\bin\Debug\2203040162(UAS).exe.config
+c:\users\acer\documents\visual studio 2012\Projects\2203040162(UAS)\2203040162(UAS)\bin\Debug\2203040162(UAS).exe
+c:\users\acer\documents\visual studio 2012\Projects\2203040162(UAS)\2203040162(UAS)\bin\Debug\2203040162(UAS).pdb
+c:\users\acer\documents\visual studio 2012\Projects\2203040162(UAS)\2203040162(UAS)\obj\Debug\2203040162(UAS).csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\2203040162(UAS)\2203040162(UAS)\obj\Debug\2203040162(UAS).exe
+c:\users\acer\documents\visual studio 2012\Projects\2203040162(UAS)\2203040162(UAS)\obj\Debug\2203040162(UAS).pdb
